@@ -11,7 +11,7 @@
           <p class="login-tip">输入任意用户名和密码即可</p>
         </div>
       </Card>
-    </div>123
+    </div>
   </div>
 </template>
 
